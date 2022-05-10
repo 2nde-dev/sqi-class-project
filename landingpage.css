@@ -1,0 +1,12 @@
+body{
+  font-family: 'Montserrat', sans-serif !important;
+}
+.scroll{
+    width: 150px I !important;
+    height: ;
+}
+.topBar{
+  overflow-x: scroll !important;
+  overflow-style: none !important;  /* IE and Edge */
+  scrollbar-width: none !important;  /* Firefox */
+}
